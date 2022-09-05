@@ -6,3 +6,4 @@ libraries
 -mediapipe
 -pyttsx3
 -pyautogui
+-selenium
